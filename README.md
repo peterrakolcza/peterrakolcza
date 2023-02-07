@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Hi 👋, I'm Peter Rakolcza, I am a Ethical Hacker from Hungary🚀</div>  
+## <div align="center">Hi 👋, I'm Peter Rakolcza, I am an Ethical Hacker from Hungary🚀</div>  
   
 
 <br/>  
