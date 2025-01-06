@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/peterrakolcza?panels=userstatistics,toplanguages,commitgraph" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peterrakolcza&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="stats graph"/>
 </div>
 
 ###
